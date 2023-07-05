@@ -1,19 +1,21 @@
-Tikla fala baksın->
+Tikla fala baksın
+<br>
 ->Aşk durumu butonu bas ve aşk falına rasgele baksın
+<br>
 ->Para durumu butonu bas ve para durumun nasıl olacak falına rasgele baksın
+<br>
 ->Günlük tavsiye butonu bas ve gündelik hedeflerine ilişkin sana tüyolar  rasgele baksın
 
 
 
-## Getting Started
+<br>
+<p float="left">
+<img hspace="5" src="assets/readme-files/1.png" width="150" />
+<img hspace="5" src="assets/readme-files/2.png" width="150" />
+<img hspace="5" src="assets/readme-files/3.png" width="150" />
+<img hspace="5" src="assets/readme-files/4.png" width="150" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+</p>
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
