@@ -1,4 +1,7 @@
-# falci
+# tikla fala baksın
+# aşk durumu butonu bas ve aşk falına rasgele baksın
+# para durumu butonu bas ve para durumun nasıl olacak falına rasgele baksın
+# günlük tavsiye butonu bas ve gündelik hedeflerine ilişkin sana tüyolar  rasgele baksın
 
 A new Flutter project.
 
